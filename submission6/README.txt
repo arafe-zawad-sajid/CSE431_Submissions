@@ -15,6 +15,7 @@ https://youtu.be/MkE_EwO76b0
 https://youtu.be/BnvZniGQZqA
 https://youtu.be/uD58-EHwaeI
 https://youtu.be/8rXD5-xhemo
+etc.
 
 in-progress youtube playlist:
 https://youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv
@@ -25,13 +26,16 @@ in-progress book:
 https://web.stanford.edu/~jurafsky/slp3/
 
 
-did something else
-...
+learned to scrape data using python's beautifulsoup
+practiced NLP Carpentry Workshop contents
 
 
 was active in slack:
-http://slack post URL1
-http://slack post URL2
+https://bucse712fall2021.slack.com/archives/C02GVQSQSRX/p1633851114000700
+https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1641204859043000
+https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1641204890043200
+https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1642453889018700
+etc.
 
 Submitter:
 20241058 Arafe Zawad Sajid
