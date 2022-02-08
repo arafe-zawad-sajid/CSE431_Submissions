@@ -1,6 +1,8 @@
 Paper Title:
 Bangla Hate Speech Detection using state of the art Deep Learning Techniques
 
+Paper Link:
+https://drive.google.com/drive/folders/1vohwB0MWSlOnfIlF9qfzVwZpmm1PHK_X?usp=sharing
 
 Link to unlisted youtube video:
 
@@ -8,13 +10,13 @@ Link to unlisted youtube video:
 Conference URL:
 
 
-Conference / Paper submission login URL: https://easychair.org/conferences/submission_uploaded?a=27918968;files=1;submission=5806901;track=278920
+Conference / Paper submission login URL:
 
 
 Paper submission date (to workshop/conference):
 
 
-Paper submission ID: 222
+Paper submission ID:
 
 
 Group Number:
